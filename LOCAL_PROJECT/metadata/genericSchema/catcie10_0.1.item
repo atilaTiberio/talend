@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_ZE0pUafkEee_B-AbQQLYeg" name="repository.metadataGenericSchema" dataPackage="_ZE0pUqfkEee_B-AbQQLYeg" mappingTypeUsed="true" mappingTypeId="mysql_id"/>
+  <TalendMetadata:GenericPackage xmi:id="_ZE0pUqfkEee_B-AbQQLYeg" name="repository.metadataGenericSchema" dataManager="_ZE0pUafkEee_B-AbQQLYeg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_ZE0pU6fkEee_B-AbQQLYeg" id="_SirK8KfkEee_B-AbQQLYeg" label="catcie10">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZE0pVKfkEee_B-AbQQLYeg" name="ignorar" label="ignorar" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZE0pVafkEee_B-AbQQLYeg" name="causa" label="causa" sourceType="VARCHAR" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZE0pVqfkEee_B-AbQQLYeg" name="ignorar_2" label="ignorar_2" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZE0pV6fkEee_B-AbQQLYeg" name="nombre" label="nombre" sourceType="VARCHAR" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

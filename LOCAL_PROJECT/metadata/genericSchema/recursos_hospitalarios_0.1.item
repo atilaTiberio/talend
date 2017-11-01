@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_iVwj0L3KEeep8v_e4ON-GA" name="repository.metadataGenericSchema" dataPackage="_iVwj0b3KEeep8v_e4ON-GA" mappingTypeUsed="true" mappingTypeId="mysql_id"/>
+  <TalendMetadata:GenericPackage xmi:id="_iVwj0b3KEeep8v_e4ON-GA" name="repository.metadataGenericSchema" dataManager="_iVwj0L3KEeep8v_e4ON-GA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_iVwj0r3KEeep8v_e4ON-GA" id="_ULmLML3KEeep8v_e4ON-GA" label="recursos_hospitalarios">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iVwj073KEeep8v_e4ON-GA" name="clues" label="clues" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iVwj1L3KEeep8v_e4ON-GA" name="cveedo" label="cveedo" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iVwj1b3KEeep8v_e4ON-GA" name="cverecurso" label="cverecurso" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iVwj1r3KEeep8v_e4ON-GA" name="valor" label="valor" length="-1" sourceType="INT" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iVwj173KEeep8v_e4ON-GA" name="cverecursop" label="cverecursop" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iVwj2L3KEeep8v_e4ON-GA" name="anio" label="anio" length="-1" sourceType="INT" talendType="id_Integer"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

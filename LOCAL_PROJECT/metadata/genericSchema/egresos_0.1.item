@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_0H18AafqEee_B-AbQQLYeg" name="repository.metadataGenericSchema" dataPackage="_0H18AqfqEee_B-AbQQLYeg" mappingTypeUsed="true" mappingTypeId="mysql_id"/>
+  <TalendMetadata:GenericPackage xmi:id="_0H18AqfqEee_B-AbQQLYeg" name="repository.metadataGenericSchema" dataManager="_0H18AafqEee_B-AbQQLYeg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_0H18A6fqEee_B-AbQQLYeg" id="_g4AqEKfqEee_B-AbQQLYeg" label="egresos">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0H18BKfqEee_B-AbQQLYeg" name="dh" label="dh" sourceType="VARCHAR" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0H18BafqEee_B-AbQQLYeg" name="cedocve" label="cedocve" sourceType="VARCHAR" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0H18BqfqEee_B-AbQQLYeg" name="motegre" label="motegre" sourceType="VARCHAR" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0H18B6fqEee_B-AbQQLYeg" name="sexo" label="sexo" sourceType="VARCHAR" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0H18CKfqEee_B-AbQQLYeg" name="edad" label="edad" sourceType="VARCHAR" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0H18CafqEee_B-AbQQLYeg" name="dias_estancia" label="dias_estancia" sourceType="VARCHAR" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0H18CqfqEee_B-AbQQLYeg" name="afeccion" label="afeccion" sourceType="VARCHAR" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0H18C6fqEee_B-AbQQLYeg" name="anio_egreso" label="anio_egreso" sourceType="VARCHAR" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_ursgkafjEee_B-AbQQLYeg" name="repository.metadataGenericSchema" dataPackage="_ursgkqfjEee_B-AbQQLYeg" mappingTypeUsed="true" mappingTypeId="mysql_id"/>
+  <TalendMetadata:GenericPackage xmi:id="_ursgkqfjEee_B-AbQQLYeg" name="repository.metadataGenericSchema" dataManager="_ursgkafjEee_B-AbQQLYeg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_ursgk6fjEee_B-AbQQLYeg" id="_phXwwKfjEee_B-AbQQLYeg" label="catentidad">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ursglKfjEee_B-AbQQLYeg" name="cveedo" label="cveedo" sourceType="VARCHAR" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ursglafjEee_B-AbQQLYeg" name="descripcion" label="descripcion" sourceType="VARCHAR" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

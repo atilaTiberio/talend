@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_sIZS0KfiEee_B-AbQQLYeg" name="repository.metadataGenericSchema" dataPackage="_sIZS0afiEee_B-AbQQLYeg" mappingTypeUsed="true" mappingTypeId="mysql_id"/>
+  <TalendMetadata:GenericPackage xmi:id="_sIZS0afiEee_B-AbQQLYeg" name="repository.metadataGenericSchema" dataManager="_sIZS0KfiEee_B-AbQQLYeg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_sIZS0qfiEee_B-AbQQLYeg" id="_kraj4KfiEee_B-AbQQLYeg" label="catmotegreso">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sIZS06fiEee_B-AbQQLYeg" name="idmotegreso" label="idmotegreso" sourceType="VARCHAR" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sIZS1KfiEee_B-AbQQLYeg" name="descripcion" label="descripcion" sourceType="VARCHAR" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

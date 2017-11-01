@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_EOn5cKOlEeemJIAZb7W8xA" comment="connectionComment" label="connectionLabel" dataPackage="_EOn5caOlEeemJIAZb7W8xA"/>
+  <TalendMetadata:GenericPackage xmi:id="_EOn5caOlEeemJIAZb7W8xA" dataManager="_EOn5cKOlEeemJIAZb7W8xA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_EOn5cqOlEeemJIAZb7W8xA" id="_TDSnoKOlEeemJIAZb7W8xA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOoggKOlEeemJIAZb7W8xA" name="entidad" id="52" label="entidad" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_EOpHkKOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHkaOlEeemJIAZb7W8xA" name="anatomia_estudios" id="53" label="anatomia_estudios" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHkqOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHk6OlEeemJIAZb7W8xA" name="anatomia_personas" id="54" label="anatomia_personas" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHlKOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Uj5ewKOlEeemJIAZb7W8xA" name="empty_field" label="empty_field" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHlaOlEeemJIAZb7W8xA" name="lab_estudios" id="55" label="lab_estudios" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHlqOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHl6OlEeemJIAZb7W8xA" name="lab_personas" id="56" label="lab_personas" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHmKOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_WeqiUKOlEeemJIAZb7W8xA" name="empty_field1" label="empty_field1" talendType="id_String">
+        <initialValue xmi:id="_WeqiUaOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHmaOlEeemJIAZb7W8xA" name="radiologia_estudios" id="56" label="radiologia_estudios" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHmqOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHm6OlEeemJIAZb7W8xA" name="radiologia_personas" id="56" label="radiologia_personas" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHnKOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_XMkxMKOlEeemJIAZb7W8xA" name="empty_field2" label="empty_field2" talendType="id_String">
+        <initialValue xmi:id="_XMkxMaOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHnaOlEeemJIAZb7W8xA" name="mastografia_estudios" id="56" label="mastografia_estudios" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHnqOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHn6OlEeemJIAZb7W8xA" name="mastografia_personas" id="56" label="mastografia_personas" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHoKOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Xm4uoKOlEeemJIAZb7W8xA" name="empty_field3" label="empty_field3" talendType="id_String">
+        <initialValue xmi:id="_Xm4uoaOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHoaOlEeemJIAZb7W8xA" name="resonancia_estudios" id="56" label="resonancia_estudios" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHoqOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHo6OlEeemJIAZb7W8xA" name="resonancia_personas" id="56" label="resonancia_personas" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHpKOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_X7lMQKOlEeemJIAZb7W8xA" name="empty_field4" label="empty_field4" talendType="id_String">
+        <initialValue xmi:id="_X7lMQaOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHpaOlEeemJIAZb7W8xA" name="tomografia_estudios" id="56" label="tomografia_estudios" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHpqOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHp6OlEeemJIAZb7W8xA" name="tomografia_personas" id="56" label="tomografia_personas" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHqKOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YUYGwKOlEeemJIAZb7W8xA" name="empty_field5" label="empty_field5" talendType="id_String">
+        <initialValue xmi:id="_YUYGwaOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHqaOlEeemJIAZb7W8xA" name="ultrasonido_estudios" id="56" label="ultrasonido_estudios" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHqqOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHq6OlEeemJIAZb7W8xA" name="ultrasonido_personas" id="56" label="ultrasonido_personas" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHrKOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YshhAKOlEeemJIAZb7W8xA" name="empty_field6" label="empty_field6" talendType="id_String">
+        <initialValue xmi:id="_YshhAaOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHraOlEeemJIAZb7W8xA" name="otros_estudios" id="56" label="otros_estudios" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHrqOlEeemJIAZb7W8xA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_EOpHr6OlEeemJIAZb7W8xA" name="otros_personas" id="56" label="otros_personas" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_EOpHsKOlEeemJIAZb7W8xA"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_HKXPYLLbEeegzZpgigazDQ" name="repository.metadataGenericSchema" dataPackage="_HKXPYbLbEeegzZpgigazDQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_HKXPYbLbEeegzZpgigazDQ" name="repository.metadataGenericSchema" dataManager="_HKXPYLLbEeegzZpgigazDQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_HKXPYrLbEeegzZpgigazDQ" id="_wEUg4LLaEeegzZpgigazDQ" label="egresos_descripciones">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HKXPY7LbEeegzZpgigazDQ" name="sector" label="sector" sourceType="" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HKXPZLLbEeegzZpgigazDQ" name="entidad" label="entidad" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HKXPZbLbEeegzZpgigazDQ" name="motivo_egreso" label="motivo_egreso" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HKXPZrLbEeegzZpgigazDQ" name="genero" label="genero" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HKXPZ7LbEeegzZpgigazDQ" name="edad" label="edad" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HKXPaLLbEeegzZpgigazDQ" name="dias_estancia" label="dias_estancia" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HKXPabLbEeegzZpgigazDQ" name="afeccion" label="afeccion" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HKXParLbEeegzZpgigazDQ" name="anio_egreso" label="anio_egreso" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

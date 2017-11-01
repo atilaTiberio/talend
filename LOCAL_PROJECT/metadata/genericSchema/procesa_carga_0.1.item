@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_PGAuAKhsEeeN36bsJYtTyw" name="repository.metadataGenericSchema" dataPackage="_PGAuAahsEeeN36bsJYtTyw"/>
+  <TalendMetadata:GenericPackage xmi:id="_PGAuAahsEeeN36bsJYtTyw" name="repository.metadataGenericSchema" dataManager="_PGAuAKhsEeeN36bsJYtTyw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_PGAuAqhsEeeN36bsJYtTyw" id="_I1M3QKhsEeeN36bsJYtTyw" label="procesa_carga">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_PGAuA6hsEeeN36bsJYtTyw" name="tablename" label="tablename" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_PGAuBKhsEeeN36bsJYtTyw" name="ruta_database" label="ruta_database" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_PGAuBahsEeeN36bsJYtTyw" name="anio_procesar" label="anio_procesar" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_PGAuBqhsEeeN36bsJYtTyw" name="campo_edad" label="campo_edad" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
