@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_5YWWkL9HEeetbq19kGsd5Q" name="repository.metadataGenericSchema" dataPackage="_5YWWkb9HEeetbq19kGsd5Q"/>
+  <TalendMetadata:GenericPackage xmi:id="_5YWWkb9HEeetbq19kGsd5Q" name="repository.metadataGenericSchema" dataManager="_5YWWkL9HEeetbq19kGsd5Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_5YWWkr9HEeetbq19kGsd5Q" id="_RDcvYL9HEeetbq19kGsd5Q" label="urgencias_requeridos">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5YWWk79HEeetbq19kGsd5Q" name="edad" label="edad" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5YWWlL9HEeetbq19kGsd5Q" name="sexo" label="sexo" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5YWWlb9HEeetbq19kGsd5Q" name="afeccion" label="afeccion" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5YWWlr9HEeetbq19kGsd5Q" name="anio_reporte" label="anio_reporte" length="-1" talendType="id_Integer"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

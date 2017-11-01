@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_9blVwL83Eeetbq19kGsd5Q" name="repository.metadataGenericSchema" dataPackage="_9blVwb83Eeetbq19kGsd5Q"/>
+  <TalendMetadata:GenericPackage xmi:id="_9blVwb83Eeetbq19kGsd5Q" name="repository.metadataGenericSchema" dataManager="_9blVwL83Eeetbq19kGsd5Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_9blVwr83Eeetbq19kGsd5Q" id="_y0uEwL83Eeetbq19kGsd5Q" label="procedimientos">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9blVw783Eeetbq19kGsd5Q" name="id" label="id" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9blVxL83Eeetbq19kGsd5Q" name="promed" label="promed" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9blVxb83Eeetbq19kGsd5Q" name="ignorar" label="ignorar" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9blVxr83Eeetbq19kGsd5Q" name="ignorar_1" label="ignorar_1" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9blVx783Eeetbq19kGsd5Q" name="ignorar_2" label="ignorar_2" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
