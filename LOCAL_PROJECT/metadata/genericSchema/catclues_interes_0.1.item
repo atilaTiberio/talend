@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_44cLgMWqEeekc9WceNnTgQ" name="repository.metadataGenericSchema" dataPackage="_44cLgcWqEeekc9WceNnTgQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_44cLgcWqEeekc9WceNnTgQ" name="repository.metadataGenericSchema" dataManager="_44cLgMWqEeekc9WceNnTgQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_44cLgsWqEeekc9WceNnTgQ" id="_Luum8MWpEeekc9WceNnTgQ" label="catclues_interes">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLg8WqEeekc9WceNnTgQ" name="clues" label="clues" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLhMWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLhcWqEeekc9WceNnTgQ" name="clave_de_la_entidad" label="clave_de_la_entidad" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLhsWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLh8WqEeekc9WceNnTgQ" name="nombre_del_municipio" label="nombre_del_municipio" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLiMWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLicWqEeekc9WceNnTgQ" name="clave_del_municipio" label="clave_del_municipio" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLisWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLi8WqEeekc9WceNnTgQ" name="clave_de_la_institucion" label="clave_de_la_institucion" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLjMWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLjcWqEeekc9WceNnTgQ" name="nombre_de_tipologia" label="nombre_de_tipologia" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLjsWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLj8WqEeekc9WceNnTgQ" name="clave_de_tipologia" label="clave_de_tipologia" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLkMWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLkcWqEeekc9WceNnTgQ" name="nombre_de_la_unidad" label="nombre_de_la_unidad" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLksWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLk8WqEeekc9WceNnTgQ" name="longitud" label="longitud" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLlMWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLlcWqEeekc9WceNnTgQ" name="latitud" label="latitud" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLlsWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLl8WqEeekc9WceNnTgQ" name="nivel_atencion" label="nivel_atencion" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLmMWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLmcWqEeekc9WceNnTgQ" name="clave_nivel_atencion" label="clave_nivel_atencion" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLmsWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_44cLm8WqEeekc9WceNnTgQ" name="estrato_unidad" label="estrato_unidad" length="-1" precision="-1" sourceType="" talendType="id_String" nullable="false" originalLength="-1">
+        <initialValue xmi:id="_44cLnMWqEeekc9WceNnTgQ" body=""/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
